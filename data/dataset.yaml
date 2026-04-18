@@ -1,0 +1,15 @@
+
+# Dataset configuration untuk YOLOv8
+# Vehicle Detection Dataset
+
+path: ./data
+train: train/images
+val: val/images
+test: test/images
+
+# Number of classes
+nc: 1
+
+# Class names
+names:
+  0: car
