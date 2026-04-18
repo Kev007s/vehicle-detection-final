@@ -152,18 +152,6 @@ python scripts/08_simple_demo.py
 🎥 Video Demo
 Source: https://www.youtube.com/watch?v=K6xsEng2PhU
 
-Klik gambar untuk menonton video demo 3-5 menit yang mencakup:
-
-Walkthrough kode (30 detik)
-
-Deteksi pada gambar test (1 menit)
-
-Deteksi real-time pada video (1.5 menit)
-
-Perbandingan model & hasil (1 menit)
-
-Kesimpulan (30 detik)
-
 Dataset
 sshikamaru. (2022). Car Object Detection. Kaggle.
 
