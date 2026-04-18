@@ -8,30 +8,6 @@
 > **Final Project for COMP8044041 - Deep Learning and Its Applications**  
 > Bina Nusantara University, Graduate Program
 
----
-
-## 📋 Daftar Isi
-
-- [Project Overview](#project-overview)
-- [Key Results](#key-results)
-- [Dataset](#dataset)
-- [Models](#models)
-- [Project Structure](#project-structure)
-- [Setup & Installation](#setup--installation)
-- [How to Run the Models](#how-to-run-the-models)
-  - [1. Data Preparation](#1-data-preparation)
-  - [2. Train YOLOv8](#2-train-yolov8)
-  - [3. Train Faster R-CNN](#3-train-faster-rcnn)
-  - [4. Evaluate & Compare](#4-evaluate--compare)
-  - [5. Run Inference Demo](#5-run-inference-demo)
-  - [6. Video Detection Demo](#6-video-detection-demo)
-- [Results](#results)
-- [Video Demo](#video-demo)
-- [Model Weights](#model-weights)
-- [References](#references)
-- [Author](#author)
-
----
 
 ## 🎯 Project Overview
 
